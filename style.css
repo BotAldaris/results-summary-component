@@ -119,6 +119,16 @@ body {
   padding: 15px;
   border-radius: 2rem;
 }
+.attribution {
+  text-align: center;
+  padding-block: 1rem;
+  background-color: var(--Dark-gray-blue);
+  color: var(--Light-lavender);
+}
+
+.attribution a {
+  color: var(--Light-lavender);
+}
 @media (min-width: 768px) {
   .conteiner {
     display: flex;
