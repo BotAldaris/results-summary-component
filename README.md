@@ -29,8 +29,8 @@ Os usuários devem ser capazes:
 
 ### Links
 
-- URL da Solução: [Solução](https://github.com/BotAldaris/results-summary-component)
-- Live Site URL: [Live url](https://botaldaris.github.io/results-summary-component/)
+- URL da Solução: [Solução](https://github.com/BotAldaris/product-preview-card-component)
+- Live Site URL: [Live url](https://botaldaris.github.io/product-preview-card-component/)
 
 ### Tecnologias usadas
 
