@@ -2,17 +2,15 @@
 
 Essa é minha solução para o desafio [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges ajuda você a melhorar as suas habilidades com desafios parecidos com a realidade
 
-## Table of contents
+## Tabela de Conteudo
 
 - [Overview](#overview)
   - [O Desafio](#o-desafio)
   - [Screenshot](#screenshot)
   - [Links](#links)
-  - [Tecnologias usadas](tecnologia-usadas)
+  - [Tecnologias usadas](tecnologias-usadas)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
